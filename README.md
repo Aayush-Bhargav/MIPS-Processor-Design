@@ -4,5 +4,5 @@
 
 ## Clone the repo using
 ```
-https://github.com/Aayush-Bhargav/MIPS-Processor-Design.git
+git clone https://github.com/Aayush-Bhargav/MIPS-Processor-Design.git
 ```
